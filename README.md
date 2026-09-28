@@ -15,26 +15,6 @@ MySQL
 - Delete Task
 - Update Status
   
-## About
-A simple Laravel-based Personal Task Manager that lets a user create, view, edit,
-delete, and update the status (Pending/Completed) of their tasks. Built following
-the Routes → Controller → Model → Database → Blade pattern.
-
-## Tech Stack
-- Laravel
-- MySQL
-- Blade templates
-
-## Setup Instructions
-1. Clone this repository
-2. Run `composer install`
-3. Copy `.env.example` to `.env` and set your database credentials
-4. Run `php artisan key:generate`
-5. Create a MySQL database named `personal_task_manager`
-6. Run `php artisan migrate`
-7. Run `php artisan serve`
-8. Visit `http://127.0.0.1:8000/tasks`
-
 ## Screenshots
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/68b6c635-44a0-4b54-acfc-a22e91b56a6f" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fbc8bccd-0fb6-40b0-97ac-08c5f37238f6" />
