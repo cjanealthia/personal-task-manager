@@ -1,16 +1,20 @@
 # Personal Task Manager
+## Project Code: 
+WST21-PM-2026-SF
+## Student Name: 
+CABALLERO, JANE ALTHIA B.
+## Course & Year:
+BS Information Technology - 2nd Year
+## Database Used:
+MySQL
 
-Project Code: WST21-PM-2026-SF
-Student Name: CABALLERO, JANE ALTHIA B.
-Course & Year: BS Information Technology - 2nd Year
-Database Used: MySQL
-
-Features:
+## Features:
 - Add Task
 - View Tasks
 - Edit Task
 - Delete Task
 - Update Status
+- Search Task
 
 ## About
 A simple Laravel-based Personal Task Manager that lets a user create, view, edit,
