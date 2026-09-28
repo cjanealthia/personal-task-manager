@@ -14,8 +14,7 @@ MySQL
 - Edit Task
 - Delete Task
 - Update Status
-- Search Task
-
+  
 ## About
 A simple Laravel-based Personal Task Manager that lets a user create, view, edit,
 delete, and update the status (Pending/Completed) of their tasks. Built following
